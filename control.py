@@ -64,7 +64,7 @@ def publish_to_topic(stdscr):
         a traves de los comandos de teclado:
              q --> salir del bucle
              s --> parar
-             d --> modo automático
+             d --> modo autonomo
              ⭡ --> avanza
              ⭣ --> retrocede
              ⭠ --> gira a la izquierda
