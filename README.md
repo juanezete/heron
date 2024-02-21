@@ -6,7 +6,7 @@ Several Python codes have been developed that interact with the robot's topics, 
 
 First, you need to run the command `roslaunch heron_gazebo heron_world.launch` to launch the boat with Gazebo and ROS.
 
-Afterward, you have to execute `control.py` to access manual and automatic control of the developed boat.
+Afterward, you have to execute `python control.py` to access manual and automatic control of the developed boat.
 
 
 ## Authors
